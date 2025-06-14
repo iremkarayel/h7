@@ -1,0 +1,5 @@
+Bu hafta, matplotlib kütüphanesi kullanılarak 2B koordinatlarda farklı renklerde 4 nokta scatter grafiği olarak çizildi.  
+Noktalar kırmızı çizgilerle sırayla ve kapalı bir şekil oluşturacak şekilde bağlandı.  
+X ve Y eksenlerine oklar eklendi.  
+Ayrıca y = x diyagonal çizgisi kalın siyah çizgi olarak gösterildi.  
+Grafiğe ızgara eklendi ve görsellik artırıldı.
