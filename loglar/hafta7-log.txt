@@ -1,0 +1,8 @@
+LOG - Hafta X
+
+matplotlib ile 4 nokta scatter grafiği çizildi, noktalar kırmızı çizgilerle bağlandı.  
+X ve Y eksenlerine oklar yerleştirildi.  
+y = x diyagonal çizgisi eklendi.  
+Grafik ızgaralı olarak gösterildi.
+
+
