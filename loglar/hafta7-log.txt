@@ -1,4 +1,4 @@
-LOG - Hafta X
+LOG - Hafta 7
 
 matplotlib ile 4 nokta scatter grafiği çizildi, noktalar kırmızı çizgilerle bağlandı.  
 X ve Y eksenlerine oklar yerleştirildi.  
